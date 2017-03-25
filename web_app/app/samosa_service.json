@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "samosa-150016",
+  "private_key_id": "27ef92ec56d3e6dcc505a16670b523116cf9e9db",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC0xkbNqhfriHcf\nn2B8ofzfc3R4jxr5LojV88ocwOTUP5J+T3GoqutqKhcOOEXWh39vaYeteZFdEjEk\nbyfPwmhdioFNeW9Y07QNtG89BwCwIOvQkFNaoRWbNOUhNm2UC7WPM+NVxOd04KyM\noG5hHU7+QEwe27by9oQN4EVIP/MDZ/as3jMyLb5FYvQNnft1nIg46VRulVD1Aj+r\nv4FTKQ3dmDD6ieJ5tFYS8KIHlbFmtCK6jDFmr5PieKfbhQTHesnghy5XFh3pDxp1\nVjmsF4evM9Gv4B6fyD1f7ch1f2wiqOREjliKWJQ9EUSfeiy6q5LVpBMJwHgWUHB5\nDBW+hVYfAgMBAAECggEAcgT9c4rtO2n/eLqVqQai8G1p8QCSCskHFauGt0wTCKxw\nQarqDXCAu52AnT9xDTa5chQlt40N2p420LwraCc+nIFXvP3y9RvSXTKJVvyrumuJ\nUSs259riPdrHCoPB6bbY9VHM+bQQKO/s5WXrOOW7hTIY0P3UDrrd38Ks8D0lkedZ\nEuMs2d38dPbdNdLgsXTJNyETFdF1ZL6pJfIDjSnQkOV21xQI24EF6e7mCQdn2/me\nAkyCznRsnossmu8eNzwtgYABzLCQMxWcN+DZlI9wtwsnC8r2UFRxZZIKUmQoVE1t\nod3ovvJISJ08CCH2RL4TlxUQdVRaaz5pyI2xdIHLAQKBgQDk1FseaK2CqecOkyy1\n5Y9EqZmzsCdy/MT9wtEezslZ2x8iTQ7egc+o+/i3Ev3//8gEefXSQEINKIctE2Ym\n9dAOHep9+ILxVMiE6fTowSLLml9+iCS4+n6aY8uAxrOMQZxZ+KTS7xBvAzNIcct7\nHiLSzJhyur/jvqba+KJiWGZkTwKBgQDKPTYKQJcItMfvTwpTdUNzJgNp53lXdzLR\nBHVvjXT43FXVE/jC98hT1yyI9JvAC+YPthfNOJ2dmQvq0Ks4i+R5SPHJgmGl8Txu\nhLWuuQ7DRlnDCOcIh6R96aHcCw8XKy625D3hlPiH86CejeldfeNqcFfUXaNJlMvJ\n4JVWcEHtMQKBgElegTy1yXRMr6XvsHU9/nrAemSvxWZL/4lxroVXPh4OcOQZmvvi\n2UdQSwXAFCrBw0sUI6pfKg54ASeFwcoaJLRyCR6M0Mc6LPTY4srCKjrn61hxpHye\n7HrqJnTKwQTmgJAkdgyf1EAT4ZyHx/tYxUebjAG1ORN3rJ4m/EHWIDZnAoGATeAM\nMx50CjIy2v/Apip9cpWsstcjbn7D3qCs5+u8oyeVFZu/KrRnO4Gb8JDgeK8cQ+iG\necvXRZxtbloz1G5p6BoioMnH+DJQZu5LV6CDAsbQQb3n2O0CdknEvgq0IOPL9Tkm\navsGSLOTofpbZljXfWENMQVtnyPg5TfJyaMof8ECgYAJHLwX3OLYEEc8r5uZawGK\n08JnIFZddemcne5EPkee7baO2EnMR4IKc93gQ9IryEmsNLLRf+TIrmGcO7HFy619\n+BbMhl/SZP1Vl0dqur+vLlsk97KMf890N7WuMyxIz7ILwJyX+uK/iGwzaQn51hFu\noD/wgvUrCdhixfNfNdEllQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "samosa-service-acct@samosa-150016.iam.gserviceaccount.com",
+  "client_id": "112326110039664368123",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/samosa-service-acct%40samosa-150016.iam.gserviceaccount.com"
+}
